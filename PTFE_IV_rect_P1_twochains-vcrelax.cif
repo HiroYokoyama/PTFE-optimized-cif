@@ -1,5 +1,8 @@
 data                    
 
+# QE Optimized crystal structure of PTFE. 
+# github.com/HiroYokoyama/PTFE_opt-crystal-structures/
+
 _cell_length_a                    5.677276
 _cell_length_b                    9.829278
 _cell_length_c                    19.751033
@@ -109,4 +112,5 @@ loop_
    C  0.438746  0.472729  0.799990
    C  0.571267  0.516954  0.866670
    C  0.423144  0.492483  0.933242
+
 
