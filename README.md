@@ -28,6 +28,6 @@ This repository contains **Quantum ESPRESSO vc-relax outputs** for **polytetrafl
 
 ## References
 
-- A. J. Clark, *Polytetrafluoroethylene: structure and transitions*, Polymer **40**, 4659–4665 (1999).  
+- A. J. Clark, Polymer **40**, 4659–4665 (1999).  
 - Quantum ESPRESSO : [https://www.quantum-espresso.org/](https://www.quantum-espresso.org/)
 
