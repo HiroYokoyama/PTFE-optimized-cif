@@ -1,4 +1,4 @@
-# PTFE Optimized Crystal Structures – QE Optimized Outputs
+# PTFE Crystal Structures – QE Optimized Outputs
 
 This repository contains **Quantum ESPRESSO vc-relax outputs** for **polytetrafluoroethylene (PTFE)** in two crystalline phases:
 
