@@ -1,4 +1,4 @@
-# PTFE Crystal Structures – QE Optimized Outputs
+# PTFE Optimized Crystal Structures – QE Optimized Outputs
 
 This repository contains **Quantum ESPRESSO vc-relax outputs** for **polytetrafluoroethylene (PTFE)** in two crystalline phases:
 
@@ -9,7 +9,7 @@ This repository contains **Quantum ESPRESSO vc-relax outputs** for **polytetrafl
 
 - **Code:** Quantum ESPRESSO version 7.4.1
 - **Calculation type:** `vc-relax` (variable-cell relaxation with BFGS)  
-- **Exchange-correlation:** PBE + DFT-D3 dispersion correction  
+- **Exchange-correlation Functional:** PBE + DFT-D3 dispersion correction  
 - **Pseudopotentials:** PAW for C and F  
 - **Energy cutoffs:**  
   - Wavefunction (`ecutwfc`): 50 Ry  
