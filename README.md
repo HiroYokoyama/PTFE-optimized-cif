@@ -33,3 +33,5 @@ F: F.pbe-n-kjpaw_psl.1.0.0.UPF
 - A. J. Clark, Polymer **40**, 4659–4665 (1999).  
 - Quantum ESPRESSO : [https://www.quantum-espresso.org/](https://www.quantum-espresso.org/)
 
+## Image
+[IV](https://raw.githubusercontent.com/HiroYokoyama/PTFE_opt-crystal-structures/41a160e06186503134d89bd92f1c98bb9b1ab2be/img/PTFE_IV_rect_P1_twochains-vcrelax_c.png)
