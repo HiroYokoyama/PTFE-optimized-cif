@@ -10,7 +10,9 @@ This repository contains **Quantum ESPRESSO vc-relax outputs** for **polytetrafl
 - **Code:** Quantum ESPRESSO version 7.4.1
 - **Calculation type:** `vc-relax` (variable-cell relaxation with BFGS)  
 - **Exchange-correlation Functional:** PBE + DFT-D3 dispersion correction  
-- **Pseudopotentials:** PAW for C and F  
+- **Pseudopotentials:**  
+C: C.pbe-n-kjpaw_psl.1.0.0.UPF  
+F: F.pbe-n-kjpaw_psl.1.0.0.UPF  
 - **Energy cutoffs:**  
   - Wavefunction (`ecutwfc`): 50 Ry  
   - Charge density (`ecutrho`): 300 Ry  
